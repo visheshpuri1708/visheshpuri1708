@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+AWS Certified Security Specialist & Cloud Practitioner, Computer Science 4th year student enrolled in Memorial University of Newfoundland Bachelor of Science Program with hands-on experience gained through a growth oriented internship. Eager to work with industry leaders to drive personal and professional development in the field of software development and cloud computing.
+
+🔭 I’m currently working as a software developer, collaborating with the development team to design, develop, test, and deploy progressive web app solutions using React, DynamoDB, AWS for microservices and JIRA for agile development.
+
+Portfolio Website: https://visheshpuri.com/
