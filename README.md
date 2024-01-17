@@ -19,4 +19,3 @@ I'm <b>Vishesh Puri</b>, AWS Certified Security Specialist & Cloud Practitioner,
 
 🔭 I’m currently working as a software developer, collaborating with the development team to design, develop, test, and deploy progressive web app solutions using React, DynamoDB, AWS for microservices and JIRA for agile development.
 
-Portfolio Website: https://visheshpuri.com/
